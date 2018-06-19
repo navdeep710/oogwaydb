@@ -1,8 +1,11 @@
 # oogwaydb
 to run go into directory
-cd oogwaydb
+
+`cd oogwaydb`
+
 now run 
-python main.py
+
+`python main.py`
 
 this will initiate a cmd tool , 
 which will guide to how enter the values or get values
