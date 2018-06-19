@@ -31,3 +31,5 @@ things remaining to do
 -- expose api to use it some other library
 
 -- more sync options
+
+-- off loading and uploading regions on demand basis
