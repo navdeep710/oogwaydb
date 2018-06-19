@@ -10,8 +10,7 @@ now run
 this will initiate a cmd tool , 
 which will guide to how enter the values or get values
 
-Imrovement or changes pending
-things remaining to do
+Imrovement ,changes pending ,things remaining, to do
 
 
 -- make split dynamic - current supporting pre split with maximum of 5000 keys for now
